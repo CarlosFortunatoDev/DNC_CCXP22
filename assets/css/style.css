@@ -57,6 +57,7 @@ body{
         flex-direction: column;
         padding-top: 2rem;
         align-items: center;
+        padding-right: 1rem;
     }
 
     #time h3{
